@@ -1,0 +1,9 @@
+C:\Users\brend\Desktop\2CUATRI_BREN\Ejercicio3LILO\Ejercicio3LILO\bin\Debug\Ejercicio3LILO.exe.config
+C:\Users\brend\Desktop\2CUATRI_BREN\Ejercicio3LILO\Ejercicio3LILO\bin\Debug\Ejercicio3LILO.exe
+C:\Users\brend\Desktop\2CUATRI_BREN\Ejercicio3LILO\Ejercicio3LILO\bin\Debug\Ejercicio3LILO.pdb
+C:\Users\brend\Desktop\2CUATRI_BREN\Ejercicio3LILO\Ejercicio3LILO\obj\Debug\Ejercicio3LILO.csprojResolveAssemblyReference.cache
+C:\Users\brend\Desktop\2CUATRI_BREN\Ejercicio3LILO\Ejercicio3LILO\obj\Debug\Ejercicio3LILO.Form1.resources
+C:\Users\brend\Desktop\2CUATRI_BREN\Ejercicio3LILO\Ejercicio3LILO\obj\Debug\Ejercicio3LILO.Properties.Resources.resources
+C:\Users\brend\Desktop\2CUATRI_BREN\Ejercicio3LILO\Ejercicio3LILO\obj\Debug\Ejercicio3LILO.csproj.GenerateResource.Cache
+C:\Users\brend\Desktop\2CUATRI_BREN\Ejercicio3LILO\Ejercicio3LILO\obj\Debug\Ejercicio3LILO.exe
+C:\Users\brend\Desktop\2CUATRI_BREN\Ejercicio3LILO\Ejercicio3LILO\obj\Debug\Ejercicio3LILO.pdb
